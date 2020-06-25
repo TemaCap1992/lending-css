@@ -271,7 +271,6 @@ h4 {
 h4:after {
     content: '”';
     position: absolute;
-    top: -5px;
     left: -20px;
     font-size: 320px;
     line-height: 1em;
